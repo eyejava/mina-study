@@ -1,0 +1,127 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+Apache MINA Legal
+
+
+From: 'an unknown organization'
+  - Ant  ant:ant:jar:1.6
+
+  - icu4j  com.ibm.icu:icu4j:jar:2.6.1
+
+  - jdom  jdom:jdom:jar:1.0
+
+  - JDOM (http://www.jdom.org/) org.jdom:jdom:jar:1.1
+
+  - Maven Shared Model (http://forge.sonatype.com/spice-parent/model-builder/) org.sonatype.spice:model-builder:jar:1.3
+
+  - jdependency (http://github.com/tcurdt/jdependency) org.vafer:jdependency:jar:0.7
+    License: Apache License 2  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - StAX API (http://stax.codehaus.org/) stax:stax-api:jar:1.0.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - xalan  xalan:xalan:jar:2.6.0
+
+  - xercesImpl  xerces:xercesImpl:jar:2.6.2
+
+  - xmlParserAPIs  xerces:xmlParserAPIs:jar:2.6.2
+
+  - xml-apis (http://xml.apache.org/commons/#external) xml-apis:xml-apis:jar:1.3.02
+
+  - xom (http://www.xom.nu) xom:xom:jar:1.0
+    License: LGPL 
+
+From: 'Apache Software Foundation' (http://www.apache.org)
+  - Apache Log4j (http://logging.apache.org/log4j/1.2/) log4j:log4j:bundle:1.2.17
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'Codehaus' (http://codehaus.org)
+  - jaxen (http://jaxen.codehaus.org/) jaxen:jaxen:jar:1.1.1
+
+
+From: 'Codehaus' (http://www.codehaus.org/)
+  - Plexus Classworlds (http://plexus.codehaus.org/plexus-classworlds/) org.codehaus.plexus:plexus-classworlds:jar:2.4
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Plexus :: Component Annotations (http://plexus.codehaus.org/plexus-containers/plexus-component-annotations/) org.codehaus.plexus:plexus-component-annotations:jar:1.5.5
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Plexus :: Default Container (http://plexus.codehaus.org/plexus-containers/plexus-container-default/) org.codehaus.plexus:plexus-container-default:jar:1.0-beta-3.0.5
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Plexus Interpolation API  org.codehaus.plexus:plexus-interpolation:jar:1.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Plexus Common Utilities (http://plexus.codehaus.org/plexus-utils) org.codehaus.plexus:plexus-utils:jar:3.0.4
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Woodstox (http://woodstox.codehaus.org) org.codehaus.woodstox:wstx-asl:jar:3.2.6
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'Google' (http://www.google.com)
+  - google-collect (http://code.google.com/p/google-collections/) com.google.code.google-collections:google-collect:jar:snapshot-20080530
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'Google, Inc.' (http://www.google.com)
+  - Sisu Guava - Core Library (http://code.google.com/p/guava-libraries/sisu-guava/) org.sonatype.sisu:sisu-guava:jar:0.9.9
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Sisu Guice - Core Library (http://code.google.com/p/google-guice/sisu-guice/) org.sonatype.sisu:sisu-guice:jar:3.1.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'InfoEther' (http://pmd.sourceforge.net/)
+  - PMD (http://pmd.sourceforge.net/) pmd:pmd:jar:4.3
+    License: BSD-style  (http://pmd.sourceforge.net/license.html)
+
+From: 'MetaStuff Ltd.' (http://sourceforge.net/projects/dom4j)
+  - dom4j (http://dom4j.org) dom4j:dom4j:jar:1.6.1
+
+
+From: 'ObjectWeb' (http://www.objectweb.org/)
+  - ASM Core (http://asm.objectweb.org/asm/) asm:asm:jar:3.3.1
+    License: BSD  (http://asm.objectweb.org/license.html)
+  - ASM Analysis (http://asm.objectweb.org/asm-analysis/) asm:asm-analysis:jar:3.2
+    License: BSD  (http://asm.objectweb.org/license.html)
+  - ASM Commons (http://asm.objectweb.org/asm-commons/) asm:asm-commons:jar:3.3.1
+    License: BSD  (http://asm.objectweb.org/license.html)
+  - ASM Tree (http://asm.objectweb.org/asm-tree/) asm:asm-tree:jar:3.3.1
+    License: BSD  (http://asm.objectweb.org/license.html)
+  - ASM Util (http://asm.objectweb.org/asm-util/) asm:asm-util:jar:3.2
+    License: BSD  (http://asm.objectweb.org/license.html)
+
+From: 'QOS.ch' (http://www.qos.ch)
+  - SLF4J API Module (http://www.slf4j.org) org.slf4j:slf4j-api:jar:1.6.6
+    License: MIT License  (http://www.opensource.org/licenses/mit-license.php)
+
+From: 'Sonatype, Inc.' (http://www.sonatype.com/)
+  - Sisu-Inject-Bean : Aggregate OSGi bundle (http://sisu.sonatype.org/sisu-inject/containers/guice-bean/sisu-inject-bean/) org.sonatype.sisu:sisu-inject-bean:bundle:2.3.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)    License: Eclipse Public License, Version 1.0  (http://www.eclipse.org/legal/epl-v10.html)
+  - Sisu-Inject-Plexus : Aggregate OSGi bundle (http://sisu.sonatype.org/sisu-inject/containers/guice-bean/guice-plexus/sisu-inject-plexus/) org.sonatype.sisu:sisu-inject-plexus:bundle:2.3.0
+    License: Eclipse Public License, Version 1.0  (http://www.eclipse.org/legal/epl-v10.html)
+
+From: 'The Apache Software Foundation' (http://jakarta.apache.org)
+  - Logging (http://jakarta.apache.org/commons/logging/) commons-logging:commons-logging-api:jar:1.1
+    License: The Apache Software License, Version 2.0  (/LICENSE.txt)
+
+From: 'The Apache Software Foundation' (http://www.apache.org/)
+  - Commons IO (http://jakarta.apache.org/commons/io/) commons-io:commons-io:jar:1.3.2
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Maven Artifact (http://maven.apache.org/ref/3.0.4//maven-artifact) org.apache.maven:maven-artifact:jar:3.0.4
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Maven Compat (http://maven.apache.org/maven-compat/) org.apache.maven:maven-compat:jar:3.0-alpha-2
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Maven Model (http://maven.apache.org/ref/3.0.4//maven-model) org.apache.maven:maven-model:jar:3.0.4
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Maven Plugin API (http://maven.apache.org/ref/3.0.4//maven-plugin-api) org.apache.maven:maven-plugin-api:jar:3.0.4
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Maven Project (http://maven.apache.org/maven-project/) org.apache.maven:maven-project:jar:3.0-alpha-2
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Maven Project Builder (http://maven.apache.org/maven-project-builder/) org.apache.maven:maven-project-builder:jar:3.0-alpha-2
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Maven Shade Plugin (http://maven.apache.org/plugins/maven-shade-plugin/) org.apache.maven.plugins:maven-shade-plugin:maven-plugin:1.7.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Maven Dependency Tree (http://maven.apache.org/shared/maven-dependency-tree/) org.apache.maven.shared:maven-dependency-tree:jar:1.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Maven Wagon API (http://maven.apache.org/wagon/wagon-provider-api) org.apache.maven.wagon:wagon-provider-api:jar:1.0-beta-4
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache XBean :: Reflect (http://geronimo.apache.org/xbean/xbean-reflect) org.apache.xbean:xbean-reflect:bundle:3.4
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+
+
+
