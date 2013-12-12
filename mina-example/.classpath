@@ -7,31 +7,15 @@
   <classpathentry kind="src" path="target/maven-shared-archive-resources" excluding="**/*.java"/>
   <classpathentry kind="output" path="target/classes"/>
   <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-  <classpathentry kind="var" path="M2_REPO/org/apache/mina/mina-core/2.0.7/mina-core-2.0.7.jar" sourcepath="M2_REPO/org/apache/mina/mina-core/2.0.7/mina-core-2.0.7-sources.jar">
-    <attributes>
-      <attribute value="jar:file:/home/jade/.m2/repository/org/apache/mina/mina-core/2.0.7/mina-core-2.0.7-javadoc.jar!/" name="javadoc_location"/>
-    </attributes>
-  </classpathentry>
+  <classpathentry kind="src" path="/mina-core"/>
   <classpathentry kind="var" path="M2_REPO/org/slf4j/slf4j-api/1.6.6/slf4j-api-1.6.6.jar" sourcepath="M2_REPO/org/slf4j/slf4j-api/1.6.6/slf4j-api-1.6.6-sources.jar">
     <attributes>
       <attribute value="jar:file:/home/jade/.m2/repository/org/slf4j/slf4j-api/1.6.6/slf4j-api-1.6.6-javadoc.jar!/" name="javadoc_location"/>
     </attributes>
   </classpathentry>
-  <classpathentry kind="var" path="M2_REPO/org/apache/mina/mina-integration-beans/2.0.7/mina-integration-beans-2.0.7.jar" sourcepath="M2_REPO/org/apache/mina/mina-integration-beans/2.0.7/mina-integration-beans-2.0.7-sources.jar">
-    <attributes>
-      <attribute value="jar:file:/home/jade/.m2/repository/org/apache/mina/mina-integration-beans/2.0.7/mina-integration-beans-2.0.7-javadoc.jar!/" name="javadoc_location"/>
-    </attributes>
-  </classpathentry>
-  <classpathentry kind="var" path="M2_REPO/org/apache/mina/mina-integration-jmx/2.0.7/mina-integration-jmx-2.0.7.jar" sourcepath="M2_REPO/org/apache/mina/mina-integration-jmx/2.0.7/mina-integration-jmx-2.0.7-sources.jar">
-    <attributes>
-      <attribute value="jar:file:/home/jade/.m2/repository/org/apache/mina/mina-integration-jmx/2.0.7/mina-integration-jmx-2.0.7-javadoc.jar!/" name="javadoc_location"/>
-    </attributes>
-  </classpathentry>
-  <classpathentry kind="var" path="M2_REPO/org/apache/mina/mina-integration-ognl/2.0.7/mina-integration-ognl-2.0.7.jar" sourcepath="M2_REPO/org/apache/mina/mina-integration-ognl/2.0.7/mina-integration-ognl-2.0.7-sources.jar">
-    <attributes>
-      <attribute value="jar:file:/home/jade/.m2/repository/org/apache/mina/mina-integration-ognl/2.0.7/mina-integration-ognl-2.0.7-javadoc.jar!/" name="javadoc_location"/>
-    </attributes>
-  </classpathentry>
+  <classpathentry kind="src" path="/mina-integration-beans"/>
+  <classpathentry kind="src" path="/mina-integration-jmx"/>
+  <classpathentry kind="src" path="/mina-integration-ognl"/>
   <classpathentry kind="var" path="M2_REPO/ognl/ognl/3.0.5/ognl-3.0.5.jar" sourcepath="M2_REPO/ognl/ognl/3.0.5/ognl-3.0.5-sources.jar">
     <attributes>
       <attribute value="jar:file:/home/jade/.m2/repository/ognl/ognl/3.0.5/ognl-3.0.5-javadoc.jar!/" name="javadoc_location"/>
@@ -39,11 +23,7 @@
   </classpathentry>
   <classpathentry kind="var" path="M2_REPO/javassist/javassist/3.11.0.GA/javassist-3.11.0.GA.jar" sourcepath="M2_REPO/javassist/javassist/3.11.0.GA/javassist-3.11.0.GA-sources.jar"/>
   <classpathentry kind="var" path="M2_REPO/jboss/javassist/3.7.ga/javassist-3.7.ga.jar" sourcepath="M2_REPO/jboss/javassist/3.7.ga/javassist-3.7.ga-sources.jar"/>
-  <classpathentry kind="var" path="M2_REPO/org/apache/mina/mina-statemachine/2.0.7/mina-statemachine-2.0.7.jar" sourcepath="M2_REPO/org/apache/mina/mina-statemachine/2.0.7/mina-statemachine-2.0.7-sources.jar">
-    <attributes>
-      <attribute value="jar:file:/home/jade/.m2/repository/org/apache/mina/mina-statemachine/2.0.7/mina-statemachine-2.0.7-javadoc.jar!/" name="javadoc_location"/>
-    </attributes>
-  </classpathentry>
+  <classpathentry kind="src" path="/mina-statemachine"/>
   <classpathentry kind="var" path="M2_REPO/commons-lang/commons-lang/2.6/commons-lang-2.6.jar" sourcepath="M2_REPO/commons-lang/commons-lang/2.6/commons-lang-2.6-sources.jar">
     <attributes>
       <attribute value="jar:file:/home/jade/.m2/repository/commons-lang/commons-lang/2.6/commons-lang-2.6-javadoc.jar!/" name="javadoc_location"/>

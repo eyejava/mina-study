@@ -2,7 +2,13 @@
 <projectDescription>
   <name>mina-example</name>
   <comment>Apache MINA is a network application framework which helps users develop high performance and highly scalable network applications easily.  It provides an abstract event-driven asynchronous API over various transports such as TCP/IP and UDP/IP via Java NIO. NO_M2ECLIPSE_SUPPORT: Project files created with the maven-eclipse-plugin are not supported in M2Eclipse.</comment>
-  <projects/>
+  <projects>
+    <project>mina-core</project>
+    <project>mina-integration-beans</project>
+    <project>mina-integration-jmx</project>
+    <project>mina-integration-ognl</project>
+    <project>mina-statemachine</project>
+  </projects>
   <buildSpec>
     <buildCommand>
       <name>org.eclipse.jdt.core.javabuilder</name>
